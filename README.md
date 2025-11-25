@@ -13,7 +13,7 @@ I have created the application using the follwoing
 - React
 - Vite
 
-**Getting started **
+## 🛠️ Getting started
 Prerequisites 
 - Node 22.17
 https://nodejs.org/en/download   
@@ -61,6 +61,7 @@ npm run dev
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Lucide React](https://lucide.dev/) - Beautiful & consistent icons
 - [React Hook Form](https://react-hook-form.com/) - Performant forms with easy validation
+
 
 
 
