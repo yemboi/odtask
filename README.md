@@ -75,26 +75,6 @@ npm run dev
 
 
 
-## 📄 Font Licensing
-
-This project uses the **Wotfard** font family:
-
-- **Font**: Wotfard Regular
-- **Usage**: This font is used under fair use for open source projects
-- **Source**: Downloaded from online typography resources
-- **Note**: If you're the font creator and have concerns about usage, please [contact us](mailto:rahuldkjain@gmail.com)
-
-
-
-
-</p>
-
-<p align="left">
-  <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
-  </a>
-  <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
-</p>
-
 
 
 
