@@ -1,5 +1,10 @@
+
+React Todo list 
+
 My name is Yemi Akinyemi and this is my short demo application. I will cover areas such as state management and unidirctional data flow 
 
+
+**Dependecies **
 
 I have created the application using the follwoing 
 - Tailwind CSS 
@@ -9,7 +14,10 @@ I have created the application using the follwoing
 - React
 - Vite
 
+
 **- Installation instructions **
+
+
 
 
 
