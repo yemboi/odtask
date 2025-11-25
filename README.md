@@ -1,5 +1,5 @@
 
-React Todo list 
+                                                      React Todo list 
 
 My name is Yemi Akinyemi and this is my short demo application. I will cover areas such as state management and unidirctional data flow 
  
@@ -48,6 +48,7 @@ npm run dev
 ```
 
 🌟 You are all set!
+
 
 
 
