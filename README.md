@@ -40,7 +40,7 @@ npm -v
 1. Clone the repository
 
 ```bash
-git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
+git clone https://github.com/yemboi/odtask.git
 ```
 
 2. Change the working directory
@@ -94,6 +94,7 @@ This project uses the **Wotfard** font family:
   </a>
   <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 </p>
+
 
 
 
