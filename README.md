@@ -8,7 +8,8 @@ Prerequisites
 - Node 22.17
 https://nodejs.org/en/download   
 - NPM 10.9.2
--  
+https://docs.npmjs.com/downloading-and-installing-node-js-and-npm 
+  
 To see if you already have Node.js and npm installed and check the installed version, run the following commands:
 node -v
 npm -v
@@ -32,7 +33,7 @@ git clone https://github.com/yemboi/odtask.git
 2. Change the working directory
 
 ```bash
-cd github-profile-readme-generator
+cd odtask
 ```
 
 3. Install dependencies
@@ -48,6 +49,7 @@ npm run dev
 ```
 
 🌟 You are all set!
+
 
 
 
