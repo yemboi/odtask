@@ -1,7 +1,7 @@
  
 ## 📖 React ToDo list 🖊️📝👥
 
-My name is Yemi Akinyemi and this is my short demo application. I will cover areas such as state management and unidirctional data flow 
+My name is Yemi Akinyemi and this is my short demo application. In this application I have created a small action in React using typescript an Tailwind CSS 
  
 ## 🛠️ Getting started
 Prerequisites 
@@ -49,6 +49,7 @@ npm run dev
 ```
 
 🌟 You are all set!
+
 
 
 
