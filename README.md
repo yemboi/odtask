@@ -24,17 +24,6 @@ node -v
 npm -v
 
 
-**- Installation instructions **
-
-
-<p align="center">
-  <a href="https://rahuldkjain.github.io/github-profile-readme-generator">
-    <img alt=" React todo list" src="./src/images/mdg.png" width="60" />
-  </a>
-</p>
-<h1 align="center">
- 
-
 ## 🛠️ Installation Steps
 
 1. Clone the repository
@@ -72,6 +61,7 @@ npm run dev
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Lucide React](https://lucide.dev/) - Beautiful & consistent icons
 - [React Hook Form](https://react-hook-form.com/) - Performant forms with easy validation
+
 
 
 
