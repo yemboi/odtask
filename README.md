@@ -1,7 +1,7 @@
  
 ## 📖 React ToDo list 🖊️📝👥
 
-My name is Yemi Akinyemi and this is my short demo application. In this application I have created a small action in React using typescript an Tailwind CSS 
+My name is Yemi Akinyemi and this is my short demo application. In this application I have created a small application in React using typescript and Tailwind CSS.  
  
 ## 🛠️ Getting started
 Prerequisites 
@@ -49,6 +49,7 @@ npm run dev
 ```
 
 🌟 You are all set!
+
 
 
 
