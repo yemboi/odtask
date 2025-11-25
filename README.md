@@ -13,6 +13,13 @@ To see if you already have Node.js and npm installed and check the installed ver
 node -v
 npm -v
 
+## 💻 Built with
+
+- [Vite]((https://vite.dev)/) - React framework with App Router
+- [TypeScript](https://www.typescriptlang.org/) - Type safety and better DX
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Lucide React](https://lucide.dev/) - Beautiful & consistent icons
+- [React Hook Form](https://react-hook-form.com/) - Performant forms with easy validation
 
 ## 🛠️ Installation Steps
 
@@ -44,13 +51,8 @@ npm run dev
 
 
 
-## 💻 Built with
 
-- [Vite]((https://vite.dev)/) - React framework with App Router
-- [TypeScript](https://www.typescriptlang.org/) - Type safety and better DX
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [Lucide React](https://lucide.dev/) - Beautiful & consistent icons
-- [React Hook Form](https://react-hook-form.com/) - Performant forms with easy validation
+
 
 
 
