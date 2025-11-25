@@ -2,17 +2,7 @@
 React Todo list 
 
 My name is Yemi Akinyemi and this is my short demo application. I will cover areas such as state management and unidirctional data flow 
-
-
-**Dependecies **
-I have created the application using the follwoing 
-- Tailwind CSS 
-- Node 22.17
-- NPM 10.9.2
-- TypeScript
-- React
-- Vite
-
+ 
 ## 🛠️ Getting started
 Prerequisites 
 - Node 22.17
@@ -61,6 +51,7 @@ npm run dev
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Lucide React](https://lucide.dev/) - Beautiful & consistent icons
 - [React Hook Form](https://react-hook-form.com/) - Performant forms with easy validation
+
 
 
 
