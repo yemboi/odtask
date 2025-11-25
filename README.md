@@ -33,7 +33,7 @@ npm -v
   </a>
 </p>
 <h1 align="center">
-  GitHub Profile README Generator
+  React todo list
 </h1>
 
 <p align="center">
@@ -228,6 +228,7 @@ For commercial use of this project, please verify font licensing requirements.
 <p align="center">
 Developed with ❤️ in India 🇮🇳 
 </p>
+
 
 
 
